@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hiero
+theme: jacman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,3 +71,10 @@ deploy:
   type: git
   repo: https://github.com/joshhu/joshhu.github.io.git
   branch: master
+
+# Admin
+admin:
+  name: hexo
+  password: hey
+  secret: hey hexo
+  expire: 60*1
