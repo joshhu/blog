@@ -75,7 +75,7 @@ SSD主要是快，事實上電腦速度慢最大的元兇通常就是硬碟。�
 
 (1) MacBook Pro 15吋 16GB
 (2) Macbook Pro 13吋 16GB
-(3) Intel i7 NB 15吋，16GB至少要有HDMI及一個VGA外接埠
+(3) Dell Precision M5510_8 15吋，16GB至少要有HDMI及一個VGA外接埠
 
 ## 伺服器說明
 

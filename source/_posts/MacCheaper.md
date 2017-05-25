@@ -34,7 +34,7 @@ Mac真的比PC貴嗎？這句話正確的說法，應該是**「PC使用的硬�
 
 ![](mbacheap.jpg)
 
-並不是PC比較便宜，而是Mac沒有這麼低階的產品，因為蘋果根本不在乎低階市場，要提供讓人基本滿意的使用體驗，4GB的記憶體和500GB的普通硬碟根本做不到。
+並不是PC比較便宜，而是Mac沒有這麼低階的產品，因為蘋果根本不在乎低階市場，要提供讓人基本滿意的使用體驗，蘋果認為4GB的記憶體和500GB的普通硬碟根本做不到。
 
 
 ### 正常版產品
@@ -49,7 +49,7 @@ Mac真的比PC貴嗎？這句話正確的說法，應該是**「PC使用的硬�
 
 ![](asus.jpg)
 
-對應到蘋果產品的Mac，基本上就是MacBook Air了。我們就以可以流暢使用寫程式、做3D，影音轉檔的規格來說，那就是13吋的MacBook Air，其規格如下：
+對應到蘋果產品的Mac，基本上就是MacBook Air了。我們就以可以流暢用來寫程式、做3D，影音轉檔的規格來說，那就是13吋的MacBook Air，其規格如下：
 
 > 1.6GHz 雙核心 Intel Core i5 處理器
 > Turbo Boost 可達 2.7GHz
@@ -64,7 +64,7 @@ Mac真的比PC貴嗎？這句話正確的說法，應該是**「PC使用的硬�
 
 ### 高階版產品
 
-最高階的Mac就是MacBook Pro 15，目前售價是92990台幣，對應到的PC是Dell Precision M5510_8，售價是92000台幣。PC多了一台1TB的傳統硬碟，但SSD比較小，是256GB，另外PC的解析度是4K，Mac是3K，其它規格大同小異(圖型加速卡的速度差距不大，參考這篇https://hardrealm.com/en/video/Radeon-Pro-455-vs-Quadro-M1000M)
+最高階的Mac就是MacBook Pro 15，目前售價是92990台幣，對應到的PC是Dell Precision M5510_8，售價是92000台幣。PC多了一台1TB的傳統硬碟，但SSD比較小，是256GB(Mac是512GB)，另外PC的解析度是4K，Mac是3K，其它規格大同小異(圖型加速卡的速度差距不大，參考這篇https://hardrealm.com/en/video/Radeon-Pro-455-vs-Quadro-M1000M)
 
 因此看起來當PC和Mac的規格越來越好時，價格就差不多了。
 ![](macexpensive.jpg)
