@@ -18,6 +18,7 @@
     "hexo-generator-tag": "^0.2.0",
     "hexo-hey": "^0.4.1",
     "hexo-image-sizes": "^1.0.0",
+    "hexo-prism-plugin": "^2.1.2",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
