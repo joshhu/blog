@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡嘉璽(Josh Hu)
-subtitle: The best way to learn is to struggle
-description: How to make yourself a Googler caliber
+title: 在範式間穿梭
+subtitle: I am a Paradigm Shifter
+description: The Best Way To Learn Is To Struggle
 author: Josh Hu 
 language: zh-TW
 timezone:
@@ -87,6 +87,13 @@ prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'tomorrow'
   line_number: true    # default false
-search:
-  path: search.json
-  field: post
+
+
+# RSS
+plugin:
+-  hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+

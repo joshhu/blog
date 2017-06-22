@@ -10,6 +10,8 @@ tags:
 
 > ICT高科技朝代迭代是快速，有週期，有連續性。從**半導體->PC->軟體->Internet->社交->行動->大數據->AI**
 
+![](lkf.jpg)
+
 我個人覺得這個分法有點不倫不類，把世代和服務混為一談的確有點**張飛打岳飛**。
 
 根據Jim Gray 2003年在[The Fourth Paradigm: Data-Intensive Scientific Discovery](http://www.immagic.com/eLibrary/ARCHIVES/EBOOKS/M091000H.pdf)這本書中的說法，ICT工業的出現不過就這幾十年，而這幾十年間，ICT工業向前進的動力就是運算(Computation)。
