@@ -87,3 +87,6 @@ prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'tomorrow'
   line_number: true    # default false
+search:
+  path: search.json
+  field: post
